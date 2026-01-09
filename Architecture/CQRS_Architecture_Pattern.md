@@ -1,0 +1,1 @@
+# CQRS Architecture Pattern

@@ -1,0 +1,1 @@
+# Outbox Architecture Pattern (Change data capture)
